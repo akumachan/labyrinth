@@ -1,24 +1,10 @@
 # labyrinth
+This is a escape game. 
 
-## Project setup
-```
-yarn install
-```
+# How to play
+You enter the labyrinth, then you can see two doors.
+You choose a door either on your left or right side
+in order to find three orbs.
+If you find them out, the truth door will be there.
 
-### Compiles and hot-reloads for development
-```
-yarn serve
-```
 
-### Compiles and minifies for production
-```
-yarn build
-```
-
-### Lints and fixes files
-```
-yarn lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
